@@ -28,6 +28,6 @@ cc_binary {
     ],
 
     owner: "lge",
-    name: "bdAddrLoader",
+    name: "bdAddrLoader-mako",
     proprietary: true,
 }
